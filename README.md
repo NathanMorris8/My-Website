@@ -1,15 +1,19 @@
 # Nathan Morris - Tesla-Inspired Portfolio
 
-A modern, minimalist portfolio website inspired by Tesla's design aesthetic, built with Next.js and Tailwind CSS.
+A modern, minimalist personal portfolio website inspired by Tesla's design aesthetic, built with Next.js and Tailwind CSS.
 
-## Features
+## ✨ Features
 
-- **Full-screen carousel** showcasing featured projects
-- **Responsive design** that works on all devices
+- **Full-screen carousel** showcasing featured projects (Tesla-style project showcase)
+- **Responsive design** that works on all devices (mobile, tablet, and desktop)
 - **Smooth animations** using Framer Motion
-- **Tesla-inspired aesthetic** with clean black and white design
+- **Tesla-inspired aesthetic** with clean black and white design with accent colors
 - **Modern tech stack** with Next.js 14 and Tailwind CSS
 - **Optimized performance** with Next.js Image component
+- **Portfolio grid** with hover effects
+- **Skills section** with clean "chip" design
+- **Contact section** with social links
+- **Optimized for fast loading** and accessibility
 
 ## Sections
 
