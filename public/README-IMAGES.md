@@ -12,3 +12,4 @@ These images should be placed directly in the `public` folder so they can be acc
 - `/trivia-sign.jpg`
 
 The portfolio is already configured to use these local images instead of external placeholders.
+
