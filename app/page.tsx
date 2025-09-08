@@ -11,7 +11,7 @@ const heroProjects = [
     id: 1,
     title: "AUTOCARE",
     description: "Fullstack website for finding local autocare services with car registration and parts lookup",
-    image: "https://picsum.photos/1200/800?random=1",
+    image: "/autocare-logo.jpg",
     tech: ["Python", "TypeScript", "Fullstack", "Web Development"],
     link: "https://github.com/NathanMorris8/Autocare-Mechanic-Finder"
   },
@@ -19,7 +19,7 @@ const heroProjects = [
     id: 2,
     title: "Network Packet Sniffer",
     description: "Monitor mode wifi adapter packet collection and network analysis tool",
-    image: "https://picsum.photos/1200/800?random=2",
+    image: "/electronics-setup.jpg",
     tech: ["Python", "Networking", "Linux", "Security"],
     link: "https://github.com/NathanMorris8/cs587_project"
   },
@@ -27,7 +27,7 @@ const heroProjects = [
     id: 3,
     title: "TRIVIA Game",
     description: "Python trivia game with scoring system and random question generation",
-    image: "https://picsum.photos/1200/800?random=3",
+    image: "/trivia-sign.jpg",
     tech: ["Python", "Game Development", "Input/Output", "Scoring System"],
     link: "https://github.com/NathanMorris8/Trivia-Game"
   }
@@ -39,7 +39,7 @@ const portfolioProjects = [
     id: 1,
     title: "AUTOCARE",
     description: "Fullstack website for finding local autocare services with car registration and parts lookup",
-    image: "https://picsum.photos/600/400?random=4",
+    image: "/autocare-logo.jpg",
     category: "Fullstack Web Development",
     link: "https://github.com/NathanMorris8/Autocare-Mechanic-Finder"
   },
@@ -47,7 +47,7 @@ const portfolioProjects = [
     id: 2,
     title: "Network Packet Sniffer",
     description: "Monitor mode wifi adapter packet collection and network analysis tool",
-    image: "https://picsum.photos/600/400?random=5",
+    image: "/electronics-setup.jpg",
     category: "Network Security",
     link: "https://github.com/NathanMorris8/cs587_project"
   },
@@ -55,7 +55,7 @@ const portfolioProjects = [
     id: 3,
     title: "TRIVIA Game",
     description: "Python trivia game with scoring system and random question generation",
-    image: "https://picsum.photos/600/400?random=6",
+    image: "/trivia-sign.jpg",
     category: "Python Development",
     link: "https://github.com/NathanMorris8/Trivia-Game"
   }
